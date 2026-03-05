@@ -8,4 +8,6 @@ Esta herramienta tiene fines educativos. Busca que reconozcas la diversidad de r
 [6] Las familias y géneros tienen links a su diversidad en Colombia.
 [7] Las especies tienen links a iNaturalist con más información.
 
-Construida por el GHA con estudiantes de Biología de la UdeA. Algunas imágenes adaptadas de iNaturalist bajo licencia CC-BY-NC.
+Construida por el GHA con el apoyo de estudiantes de Biología de la UdeA.
+
+Algunas imágenes han sido adaptadas de iNaturalist bajo licencia CC-BY-NC.
