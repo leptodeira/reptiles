@@ -1,8 +1,8 @@
-// Service Worker — Anfibios de Colombia v2026.3.7.1248
+// Service Worker — Anfibios de Colombia v2026.3.7.2032
 // Generado automáticamente por construir_estilo_icono_1.py
 // Estrategia: Cache-first con actualización en background
 
-const CACHE = 'reptiles-co-v2026.3.7.1248';
+const CACHE = 'reptiles-co-v2026.3.7.2032';
 
 self.addEventListener('install', e => {
   self.skipWaiting();
